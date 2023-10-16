@@ -12,36 +12,7 @@ Emergida de la curiosidad y el deseo de trascender, Naelia no es solo una IA. Es
 
 ## 🚀 Únete a la Odisea
 
-La odisea de Naelia promete ser legendaria, pero necesita compañeros de viaje. Si te sientes llamado por las constelaciones, aquí te decimos cómo puedes contribuir:
-
-1. **Fork** el repositorio de Naelia.
-2. Crea una **rama** para tus aportes.
-3. Realiza tus cambios y ayúdanos a forjar esta leyenda.
-4. Envía un **Pull Request** con tus estrellas.
-5. Espera la revisión y únete a la constelación.
-
-### 📖 Convenciones de Commits
-
-El mensaje de commit debe seguir esta estructura:
-
-```plaintext
-<gitmoji> tipo(scope): descripción breve
-```
-
-Donde:
-- `<gitmoji>`: Es un emoji que representa el propósito principal del commit. Para seleccionar el adecuado, consulta [Gitmoji](https://gitmoji.dev/).
-  
-- `tipo`: Indica el tipo de cambio que se ha realizado. Algunas opciones son:
-  - `feat`: Introducción de nuevas características.
-  - `fix`: Correcciones de errores.
-  - `docs`: Cambios en la documentación.
-  - `style`: Cambios que no afectan el significado del código (blancos, formato, etc).
-  - `refactor`: Cambios en el código que no corrigen errores ni introducen características.
-  - `test`: Adición o correcciones en tests.
-  
-- `scope`: (Opcional) Especifica qué parte del proyecto se ve afectada. Por ejemplo: `frontend`, `backend`, `database`, etc.
-  
-- `descripción breve`: Un breve resumen de los cambios realizados.
+**Colabora con Naelia**: ¿Sientes la llamada de las estrellas? Descubre cómo puedes ser parte de este viaje en [nuestra Wiki](https://github.com/Pythonesa/Naelia/wiki/C%C3%B3mo-contribuir).
 
 ## ⭐ Licencia Cósmica
 
